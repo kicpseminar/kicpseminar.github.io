@@ -19,7 +19,7 @@
 	body, input, select, textarea {
 		color: #555f66;
 		font-family: "Roboto", Helvetica, sans-serif;
-		font-size: 16pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 	}
@@ -55,15 +55,7 @@
 		letter-spacing: 0.125em;
 	}
 
-	h3, h4, h5, h6 {
-		color: #666f77;
-		font-weight: 300;
-		line-height: 1em;
-		margin: 0 0 1em 0;
-		letter-spacing: 0.125em;
-	}
-
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
 		}
