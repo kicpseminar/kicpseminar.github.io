@@ -843,7 +843,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 3em 0 3em 0;
+		padding: 1em 0 1em 0;
 	}
 
 		.wrapper.style1 {
@@ -990,7 +990,7 @@
 		background-position: center center;
 		background-repeat: no-repeat;
 		color: #d8d8d8;
-		padding: 7em 0;
+		padding: 10em 0;
 		text-align: center;
 		position: relative;
 	}
